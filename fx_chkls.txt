@@ -1,0 +1,14 @@
+1. fx start with def?
+2. fx name have only chars and _?
+3. parens right after name?
+4. arguments separated by commas?
+5. unique args?
+6. close parens and :?
+7. indent all lines of code (4 spaces)?
+8. end fx by dedenting?
+
+when use
+1. call function by typing name?
+2. parens after name?
+3. values in parens?
+4. end with )?
