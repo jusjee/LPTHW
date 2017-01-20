@@ -1,0 +1,31 @@
+Commands
+	print - prints output to terminal
+		strings are displayed by enclosing characters in ""
+		can use variables in a print statment
+		can mix variables and strings
+		Can use a variable within a string (use %)
+			ex: print "He's %d inches tall" % height
+		Formatters
+			%s string
+			%d integer
+			%r raw output
+Symbols
+	# 	
+		A line that starts with a # is a comment and does not get evaluated as code
+		Comments are used to tell someone reading your code something
+	Math	
+		+	adds
+		-	subtracts
+		*	multiplies
+		/ 	divides
+		%	modulus - gives the remainder when dividing 2 numbers
+	Comparators
+		<, >, <=, >=, ==
+Concepts
+	Strings
+		Text you want to display to someone
+		Python knows you want something to be a string when you 
+			put either " (double-quotes) or ' (single-quotes) around the text
+	Variables
+		Set a value to a variable using "="
+		Can use operands in a variable
