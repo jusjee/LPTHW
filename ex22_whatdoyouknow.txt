@@ -9,6 +9,13 @@ Commands
 			%s string
 			%d integer
 			%r raw output
+		Can concatenate prints with "+" or ","
+		Can print a block of text with """
+		Can define a variable with variables
+			ex:	formatter = "%r %r %r"
+				print formatter % (yes, no, maybe)
+		Can multiple a print statement
+			ex:	print "." * 10
 Symbols
 	# 	
 		A line that starts with a # is a comment and does not get evaluated as code
@@ -21,6 +28,10 @@ Symbols
 		%	modulus - gives the remainder when dividing 2 numbers
 	Comparators
 		<, >, <=, >=, ==
+	Formatting
+		\	escape character
+		\n	new line
+		\t	tab
 Concepts
 	Strings
 		Text you want to display to someone
